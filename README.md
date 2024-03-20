@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Dominic.
+- 🧠 I’m a cognitive neuroscientist working in the Auditory Cognition Group at the University of Sussex, under the supervision of Dr Ediz Sohoglu.
+- 👷 I’m currently working on manipulating attention during language processing, using a visual tracking task.
+- 📫 You can reach me at dsw27@sussex.ac.uk
